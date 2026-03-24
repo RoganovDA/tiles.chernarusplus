@@ -1,0 +1,1830 @@
+{
+  "worldName": "chernarusplus",
+  "title": "Chernarus+",
+  "worldSize": 15360,
+  "tilePattern": "tiles/{z}/{x}/{y}.webp",
+  "tileFormat": "webp",
+  "maxZoom": 7,
+  "minZoom": 0,
+  "defaultZoom": 2,
+  "tileSize": 256,
+  "scale": 1,
+  "center": [
+    7680.0,
+    7680.0
+  ],
+  "attribution": "Generated from DayZ game files",
+  "preview": "preview.webp",
+  "fullSize": "",
+  "locations": [
+    {
+      "name": "Черногорск",
+      "cfgName": "Settlement_Chernogorsk",
+      "position": [
+        6778.6191,
+        2321.7739
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Новодмитровск",
+      "cfgName": "Settlement_Novodmitrovsk",
+      "position": [
+        11339.77,
+        14391.05
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Новоселки",
+      "cfgName": "Settlement_Novoselki",
+      "position": [
+        6115.9102,
+        3256.3601
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Дубово",
+      "cfgName": "Settlement_Dubovo",
+      "position": [
+        6754.5098,
+        3595.2571
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Высотово",
+      "cfgName": "Settlement_Vysotovo",
+      "position": [
+        5701.2402,
+        2556.1101
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Зеленогорск",
+      "cfgName": "Settlement_Zelenogorsk",
+      "position": [
+        2796.0,
+        5166.0
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Березино",
+      "cfgName": "Settlement_Berezino",
+      "position": [
+        12372.383,
+        9760.9814
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Электрозаводск",
+      "cfgName": "Settlement_Elektrozavodsk",
+      "position": [
+        10286.68,
+        1992.77
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Новая Петровка",
+      "cfgName": "Settlement_NovayaPetrovka",
+      "position": [
+        3477.1689,
+        12931.243
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Горка",
+      "cfgName": "Settlement_Gorka",
+      "position": [
+        9524.0,
+        8945.0
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Солнечный",
+      "cfgName": "Settlement_Solnechny",
+      "position": [
+        13487.724,
+        6225.8838
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Старый Собор",
+      "cfgName": "Settlement_StarySobor",
+      "position": [
+        6114.0,
+        7849.0
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Выбор",
+      "cfgName": "Settlement_Vybor",
+      "position": [
+        3909.8311,
+        9019.6143
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Североград",
+      "cfgName": "Settlement_Severograd",
+      "position": [
+        8168.4839,
+        12573.602
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Бор",
+      "cfgName": "Settlement_Bor",
+      "position": [
+        3316.406,
+        4070.9661
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Светлоярск",
+      "cfgName": "Settlement_Svetloyarsk",
+      "position": [
+        13989.74,
+        13263.78
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Красностав",
+      "cfgName": "Settlement_Krasnostav",
+      "position": [
+        11203.167,
+        12340.808
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Черная Поляна",
+      "cfgName": "Settlement_ChernayaPolyana",
+      "position": [
+        12158.54,
+        13770.22
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Поляна",
+      "cfgName": "Settlement_Polyana",
+      "position": [
+        10794.0,
+        8160.0
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Тулга",
+      "cfgName": "Settlement_Tulga",
+      "position": [
+        12768.0,
+        4384.0
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Мста",
+      "cfgName": "Settlement_Msta",
+      "position": [
+        11333.79,
+        5421.3999
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Старое",
+      "cfgName": "Settlement_Staroye",
+      "position": [
+        10212.52,
+        5385.0498
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Шаковка",
+      "cfgName": "Settlement_Shakhovka",
+      "position": [
+        9728.6396,
+        6567.2998
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Долина",
+      "cfgName": "Settlement_Dolina",
+      "position": [
+        11285.17,
+        6633.5801
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Орловец",
+      "cfgName": "Settlement_Orlovets",
+      "position": [
+        12250.0,
+        7253.0
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Новый Собор",
+      "cfgName": "Settlement_NovySobor",
+      "position": [
+        7123.6299,
+        7774.6299
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Кабанино",
+      "cfgName": "Settlement_Kabanino",
+      "position": [
+        5300.71,
+        8645.9004
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Могилевка",
+      "cfgName": "Settlement_Mogilevka",
+      "position": [
+        7650.4102,
+        5096.46
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Надеждино",
+      "cfgName": "Settlement_Nadezhdino",
+      "position": [
+        5894.0,
+        4780.0
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Гуглово",
+      "cfgName": "Settlement_Guglovo",
+      "position": [
+        8445.0,
+        6579.0
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Камышово",
+      "cfgName": "Settlement_Kamyshovo",
+      "position": [
+        12170.0,
+        3458.0
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Пуста",
+      "cfgName": "Settlement_Pusta",
+      "position": [
+        9197.0,
+        3873.0
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Дубровка",
+      "cfgName": "Settlement_Dubrovka",
+      "position": [
+        10324.299,
+        9888.2373
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Верхняя Дубровка",
+      "cfgName": "Settlement_VyshnayaDubrovka",
+      "position": [
+        9926.8232,
+        10468.919
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Хелм",
+      "cfgName": "Settlement_Khelm",
+      "position": [
+        12329.27,
+        10771.01
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Ольша",
+      "cfgName": "Settlement_Olsha",
+      "position": [
+        13402.0,
+        12898.0
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Гвоздно",
+      "cfgName": "Settlement_Gvozdno",
+      "position": [
+        8644.751,
+        11934.115
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Гришино",
+      "cfgName": "Settlement_Grishino",
+      "position": [
+        5980.0,
+        10257.0
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Рогово",
+      "cfgName": "Settlement_Rogovo",
+      "position": [
+        4802.0,
+        6748.0
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Погоревка",
+      "cfgName": "Settlement_Pogorevka",
+      "position": [
+        4445.0,
+        6322.0
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Пустошка",
+      "cfgName": "Settlement_Pustoshka",
+      "position": [
+        3137.9441,
+        7890.9248
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Козловка",
+      "cfgName": "Settlement_Kozlovka",
+      "position": [
+        4402.0,
+        4736.0
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Кармановка",
+      "cfgName": "Settlement_Karmanovka",
+      "position": [
+        12700.628,
+        14691.312
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Балота",
+      "cfgName": "Settlement_Balota",
+      "position": [
+        4527.5801,
+        2465.3201
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Комарово",
+      "cfgName": "Settlement_Komarovo",
+      "position": [
+        3702.0,
+        2440.0
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Каменка",
+      "cfgName": "Settlement_Kamenka",
+      "position": [
+        1981.0,
+        2207.0
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Мышкино",
+      "cfgName": "Settlement_Myshkino",
+      "position": [
+        2048.0,
+        7258.0
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Павлово",
+      "cfgName": "Settlement_Pavlovo",
+      "position": [
+        1693.98,
+        3858.6499
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Лопатино",
+      "cfgName": "Settlement_Lopatino",
+      "position": [
+        2801.0,
+        10029.0
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Вышное",
+      "cfgName": "Settlement_Vyshnoye",
+      "position": [
+        6629.0,
+        6051.0
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Пригородки",
+      "cfgName": "Settlement_Prigorodki",
+      "position": [
+        7760.0,
+        3336.0
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Дрожжино",
+      "cfgName": "Settlement_Drozhino",
+      "position": [
+        3374.0,
+        4861.0
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Сосновка",
+      "cfgName": "Settlement_Sosnovka",
+      "position": [
+        2556.0,
+        6307.0
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Нижнее",
+      "cfgName": "Settlement_Nizhneye",
+      "position": [
+        12824.88,
+        8097.7002
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Пулково",
+      "cfgName": "Settlement_Pulkovo",
+      "position": [
+        5015.0,
+        5607.0
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Бережки",
+      "cfgName": "Settlement_Berezhki",
+      "position": [
+        15020.0,
+        13905.0
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Турово",
+      "cfgName": "Settlement_Turovo",
+      "position": [
+        13630.0,
+        14146.0
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Белая Поляна",
+      "cfgName": "Settlement_BelayaPolyana",
+      "position": [
+        14166.0,
+        14968.0
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Доброе",
+      "cfgName": "Settlement_Dobroye",
+      "position": [
+        12996.0,
+        15066.0
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Нагорное",
+      "cfgName": "Settlement_Nagornoye",
+      "position": [
+        9286.0,
+        14677.0
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Свергино",
+      "cfgName": "Settlement_Svergino",
+      "position": [
+        9493.5195,
+        13875.27
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Ратное",
+      "cfgName": "Settlement_Ratnoye",
+      "position": [
+        6195.8779,
+        12761.802
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Каменск",
+      "cfgName": "Settlement_Kamensk",
+      "position": [
+        6748.7412,
+        14430.046
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Красное",
+      "cfgName": "Settlement_Krasnoye",
+      "position": [
+        6411.374,
+        15029.961
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Старый Яр",
+      "cfgName": "Settlement_StaryYar",
+      "position": [
+        4987.8599,
+        14992.976
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Полесово",
+      "cfgName": "Settlement_Polesovo",
+      "position": [
+        5955.7368,
+        13558.046
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Тисы",
+      "cfgName": "Settlement_Tisy",
+      "position": [
+        3441.6499,
+        14799.55
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Топольники",
+      "cfgName": "Settlement_Topolniki",
+      "position": [
+        2913.7451,
+        12366.357
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Запрудное",
+      "cfgName": "Settlement_Zaprudnoye",
+      "position": [
+        5214.0,
+        12792.0
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Синысток",
+      "cfgName": "Settlement_Sinystok",
+      "position": [
+        1538.278,
+        11904.578
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Вавилово",
+      "cfgName": "Settlement_Vavilovo",
+      "position": [
+        2263.0,
+        11103.0
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Кумырна",
+      "cfgName": "Settlement_Kumyrna",
+      "position": [
+        8300.0,
+        6054.0
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Калиновка",
+      "cfgName": "Settlement_Kalinovka",
+      "position": [
+        7448.0,
+        13406.0
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Богатырка",
+      "cfgName": "Settlement_Bogatyrka",
+      "position": [
+        1453.62,
+        8870.9199
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Свято-Романовский Горнолыжный курорт",
+      "cfgName": "Settlement_SvyatoyRomanSkiResort",
+      "position": [
+        638.0,
+        11667.0
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "СКВСЧ Биатлон Арена",
+      "cfgName": "Settlement_SKVSChBiathlonArena",
+      "position": [
+        357.0,
+        11142.0
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Звир",
+      "cfgName": "Settlement_Zvir",
+      "position": [
+        577.33002,
+        5317.4199
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Заболотье",
+      "cfgName": "Settlement_Zabolotye",
+      "position": [
+        1256.859,
+        9993.2598
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Галкино",
+      "cfgName": "Settlement_Galkino",
+      "position": [
+        1102.6801,
+        8798.2695
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Арсеньево",
+      "cfgName": "Camp_Arsenovo",
+      "position": [
+        8509.6611,
+        13918.628
+      ],
+      "type": "Camp"
+    },
+    {
+      "name": "Строитель",
+      "cfgName": "Camp_Stroytel",
+      "position": [
+        7017.6299,
+        4365.21
+      ],
+      "type": "Camp"
+    },
+    {
+      "name": "Ромашка",
+      "cfgName": "Camp_Romashka",
+      "position": [
+        8177.6021,
+        10980.289
+      ],
+      "type": "Camp"
+    },
+    {
+      "name": "Комета",
+      "cfgName": "Camp_Kometa",
+      "position": [
+        10271.697,
+        3558.228
+      ],
+      "type": "Camp"
+    },
+    {
+      "name": "Дружба",
+      "cfgName": "Camp_Druzhba",
+      "position": [
+        11437.0,
+        10695.0
+      ],
+      "type": "Camp"
+    },
+    {
+      "name": "Надежда",
+      "cfgName": "Camp_Nadezhda",
+      "position": [
+        7279.9678,
+        7014.3501
+      ],
+      "type": "Camp"
+    },
+    {
+      "name": "Юный Пионер",
+      "cfgName": "Camp_YouthPioneer",
+      "position": [
+        11155.825,
+        7074.1431
+      ],
+      "type": "Camp"
+    },
+    {
+      "name": "Гордый Чернорус",
+      "cfgName": "Camp_ProudChernarus",
+      "position": [
+        3199.6169,
+        6174.9321
+      ],
+      "type": "Camp"
+    },
+    {
+      "name": "Школьник",
+      "cfgName": "Camp_Shkolnik",
+      "position": [
+        14856.503,
+        14571.028
+      ],
+      "type": "Camp"
+    },
+    {
+      "name": "Победа",
+      "cfgName": "Camp_Pobeda",
+      "position": [
+        3703.3821,
+        14876.384
+      ],
+      "type": "Camp"
+    },
+    {
+      "name": "Металлург",
+      "cfgName": "Camp_Metalurg",
+      "position": [
+        1035.406,
+        6677.3828
+      ],
+      "type": "Camp"
+    },
+    {
+      "name": "Зеленая гора",
+      "cfgName": "Hill_Zelenayagora",
+      "position": [
+        3767.1699,
+        6010.54
+      ],
+      "type": "Hill"
+    },
+    {
+      "name": "Дишина",
+      "cfgName": "Local_Dichina",
+      "position": [
+        4618.0,
+        7821.0
+      ],
+      "type": "Local"
+    },
+    {
+      "name": "Новый луг",
+      "cfgName": "Local_Novylug",
+      "position": [
+        9251.0,
+        11360.0
+      ],
+      "type": "Local"
+    },
+    {
+      "name": "Старые луга",
+      "cfgName": "Local_Staryeluga",
+      "position": [
+        6919.0,
+        8995.0
+      ],
+      "type": "Local"
+    },
+    {
+      "name": "Высота",
+      "cfgName": "Hill_Vysota",
+      "position": [
+        6591.6299,
+        3400.0
+      ],
+      "type": "Hill"
+    },
+    {
+      "name": "Копыто",
+      "cfgName": "Hill_Kopyto",
+      "position": [
+        7871.479,
+        3869.1021
+      ],
+      "type": "Hill"
+    },
+    {
+      "name": "Грубые скалы",
+      "cfgName": "Local_Grubyeskaly",
+      "position": [
+        13115.06,
+        11900.0
+      ],
+      "type": "Local"
+    },
+    {
+      "name": "Черный лес",
+      "cfgName": "Local_Chernyles",
+      "position": [
+        9031.0,
+        7803.0
+      ],
+      "type": "Local"
+    },
+    {
+      "name": "Алтар",
+      "cfgName": "Hill_Altar",
+      "position": [
+        8143.3999,
+        9159.6797
+      ],
+      "type": "Hill"
+    },
+    {
+      "name": "Радио Зенит",
+      "cfgName": "Local_RadioZenit",
+      "position": [
+        8080.0098,
+        9341.6797
+      ],
+      "type": "Local"
+    },
+    {
+      "name": "Пик Козлова",
+      "cfgName": "Hill_PikKozlova",
+      "position": [
+        8850.1699,
+        2880.53
+      ],
+      "type": "Hill"
+    },
+    {
+      "name": "Пустой хребет",
+      "cfgName": "Local_Pustoykhrebet",
+      "position": [
+        10890.0,
+        5665.0
+      ],
+      "type": "Local"
+    },
+    {
+      "name": "Башня",
+      "cfgName": "Hill_Bashnya",
+      "position": [
+        4178.27,
+        11771.22
+      ],
+      "type": "Hill"
+    },
+    {
+      "name": "Вересник",
+      "cfgName": "Hill_Veresnik",
+      "position": [
+        4440.1699,
+        8070.54
+      ],
+      "type": "Hill"
+    },
+    {
+      "name": "Курган",
+      "cfgName": "Hill_Kurgan",
+      "position": [
+        3368.52,
+        5296.8701
+      ],
+      "type": "Hill"
+    },
+    {
+      "name": "Кустрык",
+      "cfgName": "Hill_Kustryk",
+      "position": [
+        4912.8799,
+        5063.4502
+      ],
+      "type": "Hill"
+    },
+    {
+      "name": "Ветреная гора",
+      "cfgName": "Hill_Vetryanayagora",
+      "position": [
+        3892.74,
+        4200.5898
+      ],
+      "type": "Hill"
+    },
+    {
+      "name": "Калмык",
+      "cfgName": "Hill_Kalmyk",
+      "position": [
+        6903.7798,
+        4919.6602
+      ],
+      "type": "Hill"
+    },
+    {
+      "name": "Поп Иван",
+      "cfgName": "Hill_PopIvan",
+      "position": [
+        6420.2598,
+        6570.6602
+      ],
+      "type": "Hill"
+    },
+    {
+      "name": "Ербенка",
+      "cfgName": "Hill_Erbenka",
+      "position": [
+        2842.916,
+        4014.811
+      ],
+      "type": "Hill"
+    },
+    {
+      "name": "Лесной хребет",
+      "cfgName": "Local_Lesnoykhrebet",
+      "position": [
+        8122.77,
+        7815.54
+      ],
+      "type": "Local"
+    },
+    {
+      "name": "Высокий камень",
+      "cfgName": "Hill_Vysokiykamen",
+      "position": [
+        8940.1904,
+        4380.52
+      ],
+      "type": "Hill"
+    },
+    {
+      "name": "Добрый",
+      "cfgName": "Hill_Dobry",
+      "position": [
+        10552.9,
+        3061.03
+      ],
+      "type": "Hill"
+    },
+    {
+      "name": "Баранчик",
+      "cfgName": "Hill_Baranchik",
+      "position": [
+        10153.147,
+        6208.521
+      ],
+      "type": "Hill"
+    },
+    {
+      "name": "Малиновка",
+      "cfgName": "Hill_Malinovka",
+      "position": [
+        10897.7,
+        7575.5898
+      ],
+      "type": "Hill"
+    },
+    {
+      "name": "Дубина",
+      "cfgName": "Hill_Dubina",
+      "position": [
+        11107.9,
+        8474.8301
+      ],
+      "type": "Hill"
+    },
+    {
+      "name": "Клен",
+      "cfgName": "Hill_Klen",
+      "position": [
+        11473.511,
+        11315.393
+      ],
+      "type": "Hill"
+    },
+    {
+      "name": "Черная гора",
+      "cfgName": "Hill_Chernayagora",
+      "position": [
+        10280.816,
+        12053.928
+      ],
+      "type": "Hill"
+    },
+    {
+      "name": "Золотарь",
+      "cfgName": "Ruin_Zolotar",
+      "position": [
+        10179.0,
+        11998.0
+      ],
+      "type": "Ruin"
+    },
+    {
+      "name": "Острый",
+      "cfgName": "Hill_Ostry",
+      "position": [
+        10792.747,
+        12829.504
+      ],
+      "type": "Hill"
+    },
+    {
+      "name": "Ольша",
+      "cfgName": "Hill_Olsha",
+      "position": [
+        12975.7,
+        12775.2
+      ],
+      "type": "Hill"
+    },
+    {
+      "name": "Тихий залив",
+      "cfgName": "Marine_Tikhiyzaliv",
+      "position": [
+        1221.49,
+        2111.8899
+      ],
+      "type": "Marine"
+    },
+    {
+      "name": "Мутный залив",
+      "cfgName": "Marine_Mutnyizaliv",
+      "position": [
+        5735.479,
+        1918.92
+      ],
+      "type": "Marine"
+    },
+    {
+      "name": "Черный залив",
+      "cfgName": "Marine_Chernyzaliv",
+      "position": [
+        7599.0688,
+        2486.5859
+      ],
+      "type": "Marine"
+    },
+    {
+      "name": "Зеленый залив",
+      "cfgName": "Marine_Zelenyzaliv",
+      "position": [
+        11227.019,
+        2989.8379
+      ],
+      "type": "Marine"
+    },
+    {
+      "name": "Скалистый пролив",
+      "cfgName": "Marine_Skalistyproliv",
+      "position": [
+        13385.92,
+        3613.9399
+      ],
+      "type": "Marine"
+    },
+    {
+      "name": "Нижний залив",
+      "cfgName": "Marine_Nizhniyzaliv",
+      "position": [
+        12989.3,
+        8515.7598
+      ],
+      "type": "Marine"
+    },
+    {
+      "name": "Залив Губа",
+      "cfgName": "Marine_ZalivGuba",
+      "position": [
+        14328.374,
+        13136.732
+      ],
+      "type": "Marine"
+    },
+    {
+      "name": "Рифы",
+      "cfgName": "Marine_Rify",
+      "position": [
+        13931.73,
+        11288.61
+      ],
+      "type": "Marine"
+    },
+    {
+      "name": "Ивовое озеро",
+      "cfgName": "Marine_Ivovoyeozero",
+      "position": [
+        13248.0,
+        11572.0
+      ],
+      "type": "Marine"
+    },
+    {
+      "name": "Черное озеро",
+      "cfgName": "Marine_Chernoyeozero",
+      "position": [
+        13381.0,
+        12002.0
+      ],
+      "type": "Marine"
+    },
+    {
+      "name": "Плотина Тополька",
+      "cfgName": "Marine_PlotinaTopolka",
+      "position": [
+        10231.33,
+        3691.1499
+      ],
+      "type": "Marine"
+    },
+    {
+      "name": "Плотина Победа",
+      "cfgName": "Marine_PlotinaPobeda",
+      "position": [
+        9928.2939,
+        13874.643
+      ],
+      "type": "Marine"
+    },
+    {
+      "name": "Плотина Тишина",
+      "cfgName": "Marine_PlotinaTishina",
+      "position": [
+        1150.8199,
+        6432.4541
+      ],
+      "type": "Marine"
+    },
+    {
+      "name": "Озерко",
+      "cfgName": "Marine_Ozerko",
+      "position": [
+        6777.6299,
+        4492.4199
+      ],
+      "type": "Marine"
+    },
+    {
+      "name": "Пруд",
+      "cfgName": "Marine_Prud",
+      "position": [
+        6610.98,
+        9308.5703
+      ],
+      "type": "Marine"
+    },
+    {
+      "name": "Чертов замок",
+      "cfgName": "Ruin_Chortovzamok",
+      "position": [
+        6883.2388,
+        11501.288
+      ],
+      "type": "Ruin"
+    },
+    {
+      "name": "Зуб",
+      "cfgName": "Ruin_Zub",
+      "position": [
+        6574.2798,
+        5573.8501
+      ],
+      "type": "Ruin"
+    },
+    {
+      "name": "Рог",
+      "cfgName": "Ruin_Rog",
+      "position": [
+        11267.206,
+        4293.0361
+      ],
+      "type": "Ruin"
+    },
+    {
+      "name": "Грозовой перевал",
+      "cfgName": "Local_Grozovypereval",
+      "position": [
+        3318.1201,
+        15250.55
+      ],
+      "type": "Local"
+    },
+    {
+      "name": "Сосновый перевал",
+      "cfgName": "Local_Sosnovypereval",
+      "position": [
+        2687.3999,
+        6590.2798
+      ],
+      "type": "Local"
+    },
+    {
+      "name": "Перевал Орешка",
+      "cfgName": "Local_PerevalOreshka",
+      "position": [
+        9822.1914,
+        6088.793
+      ],
+      "type": "Local"
+    },
+    {
+      "name": "Туровский перевал",
+      "cfgName": "Local_Turovskiypereval",
+      "position": [
+        14674.241,
+        14089.306
+      ],
+      "type": "Local"
+    },
+    {
+      "name": "Три долины",
+      "cfgName": "Local_Tridoliny",
+      "position": [
+        12764.47,
+        5412.21
+      ],
+      "type": "Local"
+    },
+    {
+      "name": "Грозовые доли",
+      "cfgName": "Local_Grozovyedoly",
+      "position": [
+        10403.982,
+        14793.168
+      ],
+      "type": "Local"
+    },
+    {
+      "name": "Ключ",
+      "cfgName": "Ruin_Klyuch",
+      "position": [
+        9282.5703,
+        13476.67
+      ],
+      "type": "Ruin"
+    },
+    {
+      "name": "Лысая гора",
+      "cfgName": "Hill_Lysayagora",
+      "position": [
+        6722.459,
+        14050.42
+      ],
+      "type": "Hill"
+    },
+    {
+      "name": "Глубокое озеро",
+      "cfgName": "Marine_Glubokoyeozero",
+      "position": [
+        1692.5551,
+        14821.565
+      ],
+      "type": "Marine"
+    },
+    {
+      "name": "Скалка",
+      "cfgName": "Local_Skalka",
+      "position": [
+        5758.0,
+        14486.0
+      ],
+      "type": "Local"
+    },
+    {
+      "name": "Виды",
+      "cfgName": "Local_Vidy",
+      "position": [
+        785.05402,
+        14398.815
+      ],
+      "type": "Local"
+    },
+    {
+      "name": "Туманный верх",
+      "cfgName": "Hill_Tumannyverkh",
+      "position": [
+        331.224,
+        12982.99
+      ],
+      "type": "Hill"
+    },
+    {
+      "name": "Адамовка",
+      "cfgName": "Local_Adamovka",
+      "position": [
+        5340.6602,
+        11380.01
+      ],
+      "type": "Local"
+    },
+    {
+      "name": "Шишок",
+      "cfgName": "Hill_Shishok",
+      "position": [
+        3559.313,
+        9422.2695
+      ],
+      "type": "Hill"
+    },
+    {
+      "name": "Скалистый",
+      "cfgName": "Settlement_Skalisty",
+      "position": [
+        13715.454,
+        3118.78
+      ],
+      "type": "Settlement"
+    },
+    {
+      "name": "Сторож",
+      "cfgName": "Ruin_Storozh",
+      "position": [
+        2816.6011,
+        1277.96
+      ],
+      "type": "Ruin"
+    },
+    {
+      "name": "Мыс Голова",
+      "cfgName": "Local_MysGolova",
+      "position": [
+        8286.0527,
+        2405.5979
+      ],
+      "type": "Local"
+    },
+    {
+      "name": "Дракон",
+      "cfgName": "Local_Drakon",
+      "position": [
+        11191.0,
+        2443.0
+      ],
+      "type": "Local"
+    },
+    {
+      "name": "Отмель",
+      "cfgName": "Local_Otmel",
+      "position": [
+        11581.25,
+        3213.24
+      ],
+      "type": "Local"
+    },
+    {
+      "name": "Мыс Крутой",
+      "cfgName": "Local_MysKrutoy",
+      "position": [
+        13578.19,
+        3976.8201
+      ],
+      "type": "Local"
+    },
+    {
+      "name": "Токарня",
+      "cfgName": "Hill_Tokarnya",
+      "position": [
+        8890.4775,
+        5672.5532
+      ],
+      "type": "Hill"
+    },
+    {
+      "name": "Острог",
+      "cfgName": "Hill_Ostrog",
+      "position": [
+        2655.7339,
+        2264.6321
+      ],
+      "type": "Hill"
+    },
+    {
+      "name": "Марьянка",
+      "cfgName": "Local_Maryanka",
+      "position": [
+        2789.0,
+        3386.0
+      ],
+      "type": "Local"
+    },
+    {
+      "name": "Полонина",
+      "cfgName": "Local_Polonina",
+      "position": [
+        1004.486,
+        4242.8691
+      ],
+      "type": "Local"
+    },
+    {
+      "name": "Калинка",
+      "cfgName": "Local_Kalinka",
+      "position": [
+        3346.5,
+        11292.097
+      ],
+      "type": "Local"
+    },
+    {
+      "name": "Кикимора",
+      "cfgName": "Hill_Kikimora",
+      "position": [
+        1812.0,
+        6200.0
+      ],
+      "type": "Hill"
+    },
+    {
+      "name": "Большой Котел",
+      "cfgName": "Hill_BolshoyKotel",
+      "position": [
+        714.64899,
+        6520.4312
+      ],
+      "type": "Hill"
+    },
+    {
+      "name": "Симург",
+      "cfgName": "Hill_Simurg",
+      "position": [
+        134.0,
+        7569.9902
+      ],
+      "type": "Hill"
+    },
+    {
+      "name": "Волчий пик",
+      "cfgName": "Hill_Volchiypik",
+      "position": [
+        320.254,
+        2719.269
+      ],
+      "type": "Hill"
+    },
+    {
+      "name": "Крона",
+      "cfgName": "Ruin_Krona",
+      "position": [
+        1493.0,
+        9270.3398
+      ],
+      "type": "Ruin"
+    },
+    {
+      "name": "Три Креста",
+      "cfgName": "Local_TriKresta",
+      "position": [
+        301.0,
+        9478.0
+      ],
+      "type": "Local"
+    },
+    {
+      "name": "Ростоки",
+      "cfgName": "Local_Rostoki",
+      "position": [
+        744.45001,
+        8647.8604
+      ],
+      "type": "Local"
+    },
+    {
+      "name": "Орлиное озеро",
+      "cfgName": "Marine_OrlyeOzero",
+      "position": [
+        597.0,
+        5990.0
+      ],
+      "type": "Marine"
+    },
+    {
+      "name": "Макошь",
+      "cfgName": "Local_Makosh",
+      "position": [
+        7849.7202,
+        6480.1899
+      ],
+      "type": "Local"
+    },
+    {
+      "name": "Кленовый перевал",
+      "cfgName": "Local_Klenovyipereval",
+      "position": [
+        10862.702,
+        11585.512
+      ],
+      "type": "Local"
+    },
+    {
+      "name": "Змеиный хребет",
+      "cfgName": "Local_Zmeinykhrebet",
+      "position": [
+        11446.17,
+        13606.92
+      ],
+      "type": "Local"
+    },
+    {
+      "name": "Сокол",
+      "cfgName": "Hill_Sokol",
+      "position": [
+        12001.0,
+        14813.0
+      ],
+      "type": "Hill"
+    },
+    {
+      "name": "Крутые скалы",
+      "cfgName": "Local_Krutyeskaly",
+      "position": [
+        14880.63,
+        13671.76
+      ],
+      "type": "Local"
+    },
+    {
+      "name": "Богат",
+      "cfgName": "Local_Bogat",
+      "position": [
+        7058.0112,
+        12023.571
+      ],
+      "type": "Local"
+    },
+    {
+      "name": "Дубник",
+      "cfgName": "Local_Dubnik",
+      "position": [
+        3298.29,
+        10330.89
+      ],
+      "type": "Local"
+    },
+    {
+      "name": "Виселица",
+      "cfgName": "Hill_Viselitsa",
+      "position": [
+        12722.157,
+        7504.0498
+      ],
+      "type": "Hill"
+    },
+    {
+      "name": "Дажбог",
+      "cfgName": "Local_Dazhbog",
+      "position": [
+        6581.0,
+        8590.0
+      ],
+      "type": "Local"
+    },
+    {
+      "name": "Вербник",
+      "cfgName": "Marine_Verbnik",
+      "position": [
+        4414.8789,
+        9103.002
+      ],
+      "type": "Marine"
+    },
+    {
+      "name": "Медвежьи луга",
+      "cfgName": "Local_Medvezhilugi",
+      "position": [
+        9641.0,
+        13236.0
+      ],
+      "type": "Local"
+    },
+    {
+      "name": "Ворон",
+      "cfgName": "Ruin_Voron",
+      "position": [
+        13517.93,
+        3311.2451
+      ],
+      "type": "Ruin"
+    },
+    {
+      "name": "Гномский замок",
+      "cfgName": "Ruin_Gnomovzamok",
+      "position": [
+        7446.915,
+        9097.1699
+      ],
+      "type": "Ruin"
+    },
+    {
+      "name": "Глаза",
+      "cfgName": "Marine_Glaza",
+      "position": [
+        7383.0,
+        9320.0
+      ],
+      "type": "Marine"
+    },
+    {
+      "name": "Kарьер Красная Заря",
+      "cfgName": "Local_KarerKrasnayaZarya",
+      "position": [
+        8565.3486,
+        13418.684
+      ],
+      "type": "Local"
+    },
+    {
+      "name": "Матвеево",
+      "cfgName": "Local_Matveyevo",
+      "position": [
+        4281.0,
+        7380.0
+      ],
+      "type": "Local"
+    },
+    {
+      "name": "Котька",
+      "cfgName": "Local_Kotka",
+      "position": [
+        5873.7002,
+        6883.2402
+      ],
+      "type": "Local"
+    },
+    {
+      "name": "Черные скалы",
+      "cfgName": "Local_Chernyeskaly",
+      "position": [
+        3932.572,
+        14599.496
+      ],
+      "type": "Local"
+    },
+    {
+      "name": "Святой Роман",
+      "cfgName": "Hill_SvyatoyRoman",
+      "position": [
+        84.832001,
+        11901.246
+      ],
+      "type": "Hill"
+    },
+    {
+      "name": "Коман",
+      "cfgName": "Hill_Koman",
+      "position": [
+        1660.652,
+        7415.6611
+      ],
+      "type": "Hill"
+    },
+    {
+      "name": "Маяк",
+      "cfgName": "Hill_Mayak",
+      "position": [
+        12323.813,
+        4553.1069
+      ],
+      "type": "Hill"
+    },
+    {
+      "name": "военная база",
+      "cfgName": "Local_MB_VMC",
+      "position": [
+        4497.0,
+        8291.0
+      ],
+      "type": "Local"
+    },
+    {
+      "name": "военная база",
+      "cfgName": "Local_MB_Tisy",
+      "position": [
+        1570.0,
+        14069.0
+      ],
+      "type": "Local"
+    },
+    {
+      "name": "военная база",
+      "cfgName": "Local_MB_Kamensk",
+      "position": [
+        7838.812,
+        14704.823
+      ],
+      "type": "Local"
+    },
+    {
+      "name": "военная база",
+      "cfgName": "Local_MB_Zeleno",
+      "position": [
+        2410.375,
+        5133.6812
+      ],
+      "type": "Local"
+    },
+    {
+      "name": "военная база",
+      "cfgName": "Local_MB_Pavlovo",
+      "position": [
+        2016.0,
+        3408.0
+      ],
+      "type": "Local"
+    },
+    {
+      "name": "аэродром",
+      "cfgName": "Local_AF_Balota",
+      "position": [
+        5082.0308,
+        2376.3279
+      ],
+      "type": "Local"
+    },
+    {
+      "name": "аэродром",
+      "cfgName": "Local_AF_Krasno",
+      "position": [
+        12100.681,
+        12573.896
+      ],
+      "type": "Local"
+    },
+    {
+      "name": "Авиационная база Выбор",
+      "cfgName": "Local_AF_Vybor",
+      "position": [
+        4428.0,
+        10179.0
+      ],
+      "type": "Local"
+    }
+  ]
+}
